@@ -34,6 +34,13 @@ function draw() {
   image(backgroundImg, 0, 0, width, height);
   Engine.update(engine);
  
+  push();
+  translate(tower.position.x, tower.position.y);
+  rotate(tower.angle);
+  imageMode(CENTER);
+  image(towerImage, 0, 0, 160, 310);
+  pop();
+ 
   rect(ground.position.x, ground.position.y, width * 2, 1);
   push();
   imageMode(CENTER);
@@ -65,7 +72,7 @@ function showCannonBalls(ball, index) {
   if (ball) {
     ball.display();
 
-      //if(ball.body,position.x >= width || ){ }
+      //if(ball.body.position.x >= width || ){ }
   }
 }
 
