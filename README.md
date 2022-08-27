@@ -1,6 +1,6 @@
 # Pirate Invasion! 🏴‍☠️
 
-Project developed using the P5 library and JSON files for the animation of the boats and water. Made in partnership with [Byjus future school](https://www.byjusfutureschool.com/).
+Project developed using P5, Sweet Alert and Matter Libraries, also JSON files for the boat and water's animation. Made in partnership with [Byjus future school](https://www.byjusfutureschool.com/).
 Defend the island from the pirates by shooting cannonballs!
 
 ## How to play: 🕹️
