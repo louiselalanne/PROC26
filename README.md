@@ -7,7 +7,7 @@ Defend the island from the pirates by shooting cannonballs!
 - Press the right and left arrow keys to move the cannon barrel.
 - Press the down arrow to shoot.
 - Don't let the pirates came!
-- Have fun
+- Be careful, the speed increases with time.
 
 ## View:  
 https://user-images.githubusercontent.com/100588945/186922537-a269ea60-e74a-4909-bb49-1e442ec7840e.mp4
